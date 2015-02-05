@@ -6,18 +6,18 @@ Rewritten from qtpanel.
 
 ##Depends
 
-xproto
-libx11
-libxdamage
-libxcomposite
-alsa-lib
+xproto<br>
+libx11<br>
+libxdamage<br>
+libxcomposite<br>
+alsa-lib<br>
 qt4
 
 ##Build
 
-qmake-qt4 yepanel.pro -r -spec linux-g++
-make
-make install
+	qmake-qt4 yepanel.pro -r -spec linux-g++
+	make
+	make install
 
 ##Archlinux
 
