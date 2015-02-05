@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/24">
+        <file alias="start">24/start.png</file>
+    </qresource>
+    <qresource prefix="/26">
+        <file alias="panel_bg">26/panel_bg.png</file>
+    </qresource>
+    <qresource prefix="/22">
+        <file alias="default">22/default.png</file>
+    </qresource>
+    <qresource prefix="/16">
+        <file>16/accept.png</file>
+        <file>16/add.png</file>
+        <file>16/delete.png</file>
+        <file alias="gear">16/gear.png</file>
+        <file alias="folder">16/folder.png</file>
+        <file alias="folder_new">16/folder_new.png</file>
+        <file alias="file_new">16/file_new.png</file>
+        <file alias="save">16/save.png</file>
+        <file alias="user">16/user.png</file>
+        <file alias="lock">16/lock.png</file>
+        <file alias="theme">16/theme.png</file>
+    </qresource>
+    <qresource prefix="/ac">
+        <file alias="ac">ac/acpi-ac.png</file>
+        <file alias="deleted">ac/deleted.png</file>
+        <file alias="volume">ac/volume.png</file>
+        <file alias="battery">ac/acpi-bat.png</file>
+    </qresource>
+</RCC>

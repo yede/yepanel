@@ -1,0 +1,16 @@
+
+PanelWindow::start()
+	=> Applet::start()
+
+PanelWindow::stop()
+	=> Applet::stop()
+
+PanelWindow::resizeEvent()
+	=> PanelWindow::updateLayout()
+	=> PanelWindow::updatePosition()
+
+PanelWindow::updateLayout()
+	=> Applet::desiredSize()
+	=> Applet::setPosition()
+	=> Applet::setSize()
+	=> Applet::layoutChanged()

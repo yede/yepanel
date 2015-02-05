@@ -1,0 +1,51 @@
+
+[panel]
+foregroundColor = #c0c0c0
+backgroundColor = #202020
+tooltipColor    = #fafa60
+appletSpacing   = 7
+
+[menu]
+menuIconSize = 16
+
+[taskbar]
+taskActiveColor = #f0e000
+taskNormalColor = #000000
+taskIconicColor = #404040
+taskIconSize    = 16
+taskIconOffset  = 1
+taskTextOffset  = 0
+
+[meter]
+meterMargin  = 3
+meterPadding = 2
+meterSpacing = 2
+meterColorBlack  = #000000
+meterColorRed    = #e00000
+meterColorYellow = #e0e000
+meterColorGreen  = #00e000
+meterColorBlue   = #6060e0
+meterColorPurple = #e000e0
+meterColorCyan   = #00a0e0
+meterColorGray   = #909090
+
+[pager]
+pagerNormalColor     = #909090
+pagerActiveColor     = #00a0f0
+pagerBackgroundColor = #000000
+
+[networ]
+networkUnit = 4
+
+[volume]
+volumeColor = #a0c080
+volumeUnit  = 5
+
+[battery]
+batteryColor = #00a0f0
+batteryUnit  = 6
+
+[clock]
+clockTextColor   = #a0a0a0
+clockShadowColor = #202020
+clockFontName    = default
