@@ -2,7 +2,9 @@
 
 With start-menu, workspace, task-bar, tray, and several monitor (network, volumn, acpi), and a clock.
 
-Rewritten from qtpanel.
+Rewritten from qtpanel. And theme is from bmpanel.
+
+![yepanel-01](docs/yepanel.png)
 
 ##Depends
 
