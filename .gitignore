@@ -1,4 +1,5 @@
 
+build-ide.pri
 src.netmanager
 yepanel_netmanager.pro
 
